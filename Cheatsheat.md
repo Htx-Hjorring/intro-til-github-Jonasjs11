@@ -27,5 +27,7 @@ At sende dine lokale ændringer til online repositoriet.
 En ærklæring om at du gerne vil merge en branch med main branchen. Det er 
 
 ### Squash
+???
 
 ### Rebase
+???
