@@ -18,10 +18,14 @@ At lave et checkpoint i dit projekt med dine nye ændringer.
 At sende dine lokale ændringer til online repositoriet.
 
 ### Fetch
-
+???
 
 ### Pull
-
+???
 
 ### Pull-Request
-En ærklæring om at du gerne vil merge en branch med main branchen
+En ærklæring om at du gerne vil merge en branch med main branchen. Det er 
+
+### Squash
+
+### Rebase
